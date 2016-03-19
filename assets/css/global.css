@@ -1,0 +1,20 @@
+body{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 10%;
+	background-color: black;
+	color: #CCCAD5;
+}
+h1{
+	font-family: 'Indie Flower', cursive;
+	font-size: 50px;
+}
+img{
+	height: 200px;
+	width: 200px;
+	border-radius: 100px;
+}
+a{
+	color: #6588aa;
+	text-decoration: none;
+}
